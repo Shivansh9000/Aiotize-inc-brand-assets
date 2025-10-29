@@ -1,2 +1,2 @@
 # Aiotize-inc-brand-assets
-Bran assets for Aiotize Inc.
+Brand assets for Aiotize Inc.
